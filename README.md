@@ -8,5 +8,5 @@ Machine Learning challenge which determines the top 10 most similar products whe
 * [Jade Chng](https://github.com/burntandfried)
 * [Nicole Iftekhar](https://github.com/nicoleiftekhar)
 * [Megan Le](https://github.com/megannle)
-* [Cortney Ngo](https://github.com)
+* [Cortney Ngo](https://github.com/yentroc)
 * [Caroline Robinson](https://github.com/cbellerob)
